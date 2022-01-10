@@ -46,7 +46,9 @@ Alternatively if want to compile the outputted .c manually you can do so with:
 
 Note the order of statements matter; libAWK.a must come after *.c
 
-## Initial Commit Changes to Original Bell Labs Source
+## Minor Commit Changes to Original Bell Labs Source
+
+These were the minor changes in the source to allow it to compile. (for those interested).
 
 #### [Added to awkrun.c]
 
